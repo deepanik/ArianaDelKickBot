@@ -11,7 +11,7 @@ Based on [uniborg](DeepAnik/uniborg), a pluggable
 1.  Clone uniborg
 
 ```sh
-git clone https://github.com/deepanik/arianadelkickbot/uniborg.git ArianaDelKickBot
+git clone https://github.com/deepanik/uniborg.git ArianaDelKickBot
 cd uniborg
 ```
 
