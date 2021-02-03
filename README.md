@@ -1,7 +1,7 @@
 # ArianaDelKickBot (ADAB)
 Automatically kick deleted accounts
 
-Based on [uniborg](Qwerty-Space/uniborg), a pluggable 
+Based on [uniborg](DeepAnik/uniborg), a pluggable 
 [``asyncio``](https://docs.python.org/3/library/asyncio.html) 
 [Telegram](https://telegram.org) userbot based on
 [Telethon](LonamiWebs/Telethon).
@@ -53,4 +53,4 @@ git clone https://github.com/deepanik/arianadelkickbot.git .
 *  Use something like tmux: `tmux new -ds ArianaDelKickBot "python3 stdbot.py"`	
 
 
-BOT CRIDIT : Qwerty-Space
+BOT CRIDIT : DeepAnik
