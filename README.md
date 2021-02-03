@@ -53,4 +53,5 @@ git clone https://github.com/deepanik/arianadelkickbot.git .
 *  Use something like tmux: `tmux new -ds ArianaDelKickBot "python3 stdbot.py"`	
 
 
-BOT CRIDIT : DeepAnik
+BOT CRIDIT : Qwerty-Space
+
